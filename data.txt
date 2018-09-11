@@ -1,4 +1,4 @@
-Name: Ironhacker
+Name: Sarah
 Age: 25
-Favorite Color: Yellow
+Favorite Color: Teal
 
